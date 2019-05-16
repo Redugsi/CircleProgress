@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgress">
+        <attr name="stroke" format="integer"/>
+        <attr name="loadingColor" format="color"/>
+        <attr name="barColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textFontFamily" format="reference"/>
+        <attr name="showAsInteger" format="boolean"/>
+    </declare-styleable>
+</resources>
